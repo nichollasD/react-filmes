@@ -1,0 +1,4 @@
+export const PESQUISAR_FILME = 'PESQUISAR_FILME';
+export const BUSCAR_FILMES = 'BUSCAR_FILMES';
+export const BUSCAR_FILME = 'BUSCAR_FILME';
+export const CARREGAR = 'CARREGAR';
